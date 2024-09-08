@@ -26,6 +26,7 @@ GuessME is a Python script for generating custom wordlists based on user profile
    ```bash
    git clone https://github.com/krishnagopaljha/guessme.git
    cd guessme
+   pip3 install -r requirements.txt
    ```
    
 ## Usage

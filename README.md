@@ -32,5 +32,5 @@ GuessME is a Python script for generating custom wordlists based on user profile
 
 1. Run in Interactive Mode:
    ``` bash
-   python3 guessme,py -i
+   python3 guessme.py -i
    ```
